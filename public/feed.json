@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ybhan的博客",
+    "subtitle": "ybhan的博客",
+    "icon": "http://ybhanblog.com/images/favicon.ico",
+    "description": "ybhan的博客",
+    "home_page_url": "http://ybhanBlog.com",
+    "items": [
+        {
+            "id": "http://ybhanblog.com/2025/06/08/hello-world/",
+            "url": "http://ybhanblog.com/2025/06/08/hello-world/",
+            "title": "ybhan的第一篇博客",
+            "date_published": "2025-06-08T06:38:47.123Z",
+            "content_html": "<h2 id=\"缓慢开发中\"><a class=\"anchor\" href=\"#缓慢开发中\">#</a> 缓慢开发中。。</h2>\n",
+            "tags": []
+        }
+    ]
+}
