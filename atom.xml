@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://ybhanBlog.com</id>
+    <id>https://ybh971365.github.io/ybhanBlog</id>
     <title>ybhan的博客</title>
     <subtitle>ybhan的博客</subtitle>
-    <icon>http://ybhanblog.com/images/favicon.ico</icon>
-    <link href="http://ybhanBlog.com" />
+    <icon>https://ybh971365.github.io/ybhanBlog/images/favicon.ico</icon>
+    <link href="https://ybh971365.github.io/ybhanBlog" />
     <author>
       <name>Bohan Yang</name>
     </author>
     <updated>2025-06-08T06:38:47.123Z</updated>
     <category term="博客，日志" />
     <entry>
-        <id>http://ybhanblog.com/2025/06/08/hello-world/</id>
+        <id>https://ybh971365.github.io/ybhanBlog/2025/06/08/hello-world/</id>
         <title>ybhan的第一篇博客</title>
-        <link rel="alternate" href="http://ybhanblog.com/2025/06/08/hello-world/"/>
+        <link rel="alternate" href="https://ybh971365.github.io/ybhanBlog/2025/06/08/hello-world/"/>
         <content type="html">&lt;h2 id=&#34;缓慢开发中&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#缓慢开发中&#34;&gt;#&lt;/a&gt; 缓慢开发中。。&lt;/h2&gt;
 </content>
         <updated>2025-06-08T06:38:47.123Z</updated>

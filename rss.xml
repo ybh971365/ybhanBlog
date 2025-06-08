@@ -3,8 +3,8 @@
     <channel>
         <title>ybhan的博客</title>
         <subtitle>ybhan的博客</subtitle>
-        <icon>http://ybhanblog.com/images/favicon.ico</icon>
-        <link>http://ybhanBlog.com</link>
+        <icon>https://ybh971365.github.io/ybhanBlog/images/favicon.ico</icon>
+        <link>https://ybh971365.github.io/ybhanBlog</link>
         <author>
           <name>Bohan Yang</name>
         </author>
@@ -14,9 +14,9 @@
         <lastBuildDate>Sun, 08 Jun 2025 14:38:47 +0800</lastBuildDate>
         <category term="博客，日志" />
         <item>
-            <guid isPermalink="true">http://ybhanblog.com/2025/06/08/hello-world/</guid>
+            <guid isPermalink="true">https://ybh971365.github.io/ybhanBlog/2025/06/08/hello-world/</guid>
             <title>ybhan的第一篇博客</title>
-            <link>http://ybhanblog.com/2025/06/08/hello-world/</link>
+            <link>https://ybh971365.github.io/ybhanBlog/2025/06/08/hello-world/</link>
             <pubDate>Sun, 08 Jun 2025 14:38:47 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;缓慢开发中&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#缓慢开发中&#34;&gt;#&lt;/a&gt; 缓慢开发中。。&lt;/h2&gt;
  ]]></description>
